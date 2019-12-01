@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:layout_marginTop="5dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imageView2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="5dp"
+        android:src="@drawable/default_avata" />
+
+    <TextView
+        android:id="@+id/textContentUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/imageView2"
+        android:background="@drawable/rounded_corner1"
+        android:paddingBottom="3dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="13dp"
+        android:text="           a"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/timeContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="70dp"
+        android:text="10:21AM"
+        android:layout_marginTop="3dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#535252"
+        android:textSize="9dp" />
+
+    <TextView
+        android:id="@+id/senderDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="43dp"
+        android:padding="0dp"
+        android:textSize="14dp"
+        tools:text="Me" />
+
+</RelativeLayout>

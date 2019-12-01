@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="200dp"
+        android:text="Please confirm your email id first"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25dp"
+        />
+
+    <Button
+        android:id="@+id/refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Refresh"
+        android:layout_marginBottom="50dp"
+        android:layout_gravity="center_horizontal"/>
+</LinearLayout>

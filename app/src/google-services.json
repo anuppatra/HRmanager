@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176361128109",
+    "firebase_url": "https://highradius-fcc60.firebaseio.com",
+    "project_id": "highradius-fcc60",
+    "storage_bucket": "highradius-fcc60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176361128109:android:565aca87f3138898",
+        "android_client_info": {
+          "package_name": "com.example.android.highradius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176361128109-9sp6jpl8vufgt92jrskbf8qh5hf9mvf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.highradius",
+            "certificate_hash": "15c0d4e7c0b7156f8594e616f5d53c678a7a7c4f"
+          }
+        },
+        {
+          "client_id": "176361128109-c20481l5m2qjhhjbvfq25e2ohe4ld5ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5njNYUdVLioVNoWi7bCfMJ2yJGyTvIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176361128109-c20481l5m2qjhhjbvfq25e2ohe4ld5ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

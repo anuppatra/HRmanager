@@ -1,0 +1,749 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:2:1-93:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\39856d4bf76e2fb610250f8e25def152\AndroidManifest.xml:17:1-22:12
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\31b880fef76d216cd18904aeb65fd697\AndroidManifest.xml:2:1-12:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\fd4aa985b5267132c242a1afb7223823\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\86ce036d74d4284952bb19215b075aab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\0c8770d8d48af1be46155aa455773b0b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\43af53411749b492b0ce70ba0d4f5a75\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:17:1-38:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3a99f350e14f1de109ffbf473c79064d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\022336c8a40a4e3605567a9f498ae2e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\percent-27.1.1.aar\e72e8cb10c55a7520bc438314f596c84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:17.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.0.0.aar\140713760653801c01a190bbd2d719f0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b3a671d780876eb85cbd984606135d92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3d488f2467d875e6437cecded4377959\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b4aecda62746a4b6de7bb50dcdb724b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0b4e5cb86d3a06ae9f97b193c60511eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\654e57fc16298598536132fd273f9bb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\56d18a5c1170777b6879215cf72da3be\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\ed415c9506f720ec3a8f8d5d78d57e57\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\d28556ab7f4fb65a297ebfd59523d9cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\b52ff9c079ad39120b8ac573e469efb7\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\71147d631c74b1475ca5b80c30863407\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\40bdaa1c66f545f75a3a0db164a6ccf0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9adc2c02295a6a3469c1e52974f758db\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\7db9ca726dd7a3484989febcd61db6ff\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\16dd1419d4e1447c5ff6d89a669e5b4d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fffb6ee3ab21b5776db4f3e13b17baac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\34abbe3afc77c104a4fbb97e48055b3e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\019d680382c44e4fe4718f2c1de29da4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f4c76832f76bf0df0046f8d38967540\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9cddb1a3a882953129341651e74d6063\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7df1ed323c46d82a41b351f8821b41af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7cf78c5b8d337aab6236bcf4c6d2497a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\21966fd8149af29dcee50dc1d0ffa17d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f8ead305eb40e0afe8af745d3dfc5e4c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8441843e064650425b7a9660e8b28e4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\441f1c4b8239a4992ad473a4392be4bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a7c13f02e82c2f99bb439ffcb01e754\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d683ade4501b714d16ae27e6729098e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6653f19e77c3cec1d27be0e8711acda5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ef5827e66598198d4104d960100e307f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\0943a60fbede39e6aae261629bfa199b\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:1-96:12
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\56d18a5c1170777b6879215cf72da3be\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\56d18a5c1170777b6879215cf72da3be\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:13:22-78
+application
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:15:5-94:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:15:5-91:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:15:5-91:19
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\0c8770d8d48af1be46155aa455773b0b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\0c8770d8d48af1be46155aa455773b0b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:22:5-36:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3a99f350e14f1de109ffbf473c79064d\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3a99f350e14f1de109ffbf473c79064d\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.0.0.aar\140713760653801c01a190bbd2d719f0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.0.0.aar\140713760653801c01a190bbd2d719f0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\ed415c9506f720ec3a8f8d5d78d57e57\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\ed415c9506f720ec3a8f8d5d78d57e57\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\40bdaa1c66f545f75a3a0db164a6ccf0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\40bdaa1c66f545f75a3a0db164a6ccf0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9adc2c02295a6a3469c1e52974f758db\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9adc2c02295a6a3469c1e52974f758db\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\16dd1419d4e1447c5ff6d89a669e5b4d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\16dd1419d4e1447c5ff6d89a669e5b4d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fffb6ee3ab21b5776db4f3e13b17baac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fffb6ee3ab21b5776db4f3e13b17baac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\34abbe3afc77c104a4fbb97e48055b3e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\34abbe3afc77c104a4fbb97e48055b3e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\019d680382c44e4fe4718f2c1de29da4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\019d680382c44e4fe4718f2c1de29da4\AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ef5827e66598198d4104d960100e307f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ef5827e66598198d4104d960100e307f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\0943a60fbede39e6aae261629bfa199b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\0943a60fbede39e6aae261629bfa199b\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.android.HRmanager.MainActivity
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:21:9-25:15
+	android:label
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:24:13-43
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:22:13-62
+activity#com.android.HRmanager.ui.LoginActivity
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:26:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:29:13-49
+	android:launchMode
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:28:13-43
+	android:theme
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:30:13-57
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:27:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.android.HRmanager.ui.RegisterActivity
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:37:9-41:50
+	android:screenOrientation
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:40:13-49
+	android:launchMode
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:39:13-43
+	android:theme
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:41:13-47
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:38:13-69
+activity#com.android.HRmanager.ui.VerificationCheck
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:42:9-44:15
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:43:13-70
+activity#com.android.HRmanager.ui.ChatActivity
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:45:9-49:76
+	android:screenOrientation
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:47:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:48:13-76
+	android:theme
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:46:13-65
+activity#com.android.HRmanager.ui.AddGroupActivity
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:50:9-51:76
+	android:theme
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:51:13-74
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:50:19-75
+service#com.android.HRmanager.service.FriendChatService
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:52:9-54:42
+	android:exported
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:53:13-37
+	android:persistent
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:54:13-39
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:52:18-80
+service#com.android.HRmanager.service.MyFirebaseMessagingService
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:56:9-60:19
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:56:18-68
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:57:13-59:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:58:17-78
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:58:25-75
+service#com.android.HRmanager.service.MyFirebaseInstanceIDService
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:63:9-67:19
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:63:18-69
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:64:13-66:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:65:17-80
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:65:25-77
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:76:9-78:65
+	android:resource
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:78:13-62
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:77:13-83
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:89:9-91:69
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:16:9-18:69
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\019d680382c44e4fe4718f2c1de29da4\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\019d680382c44e4fe4718f2c1de29da4\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:90:13-58
+activity#com.android.HRmanager.sampledata.application_section
+ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:93:9-68
+	android:name
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml:93:20-66
+uses-sdk
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\39856d4bf76e2fb610250f8e25def152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\39856d4bf76e2fb610250f8e25def152\AndroidManifest.xml:20:5-44
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\31b880fef76d216cd18904aeb65fd697\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\31b880fef76d216cd18904aeb65fd697\AndroidManifest.xml:8:5-10:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\fd4aa985b5267132c242a1afb7223823\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\fd4aa985b5267132c242a1afb7223823\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\86ce036d74d4284952bb19215b075aab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\86ce036d74d4284952bb19215b075aab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\0c8770d8d48af1be46155aa455773b0b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.0.aar\0c8770d8d48af1be46155aa455773b0b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\43af53411749b492b0ce70ba0d4f5a75\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\43af53411749b492b0ce70ba0d4f5a75\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3a99f350e14f1de109ffbf473c79064d\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\3a99f350e14f1de109ffbf473c79064d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\022336c8a40a4e3605567a9f498ae2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\022336c8a40a4e3605567a9f498ae2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\percent-27.1.1.aar\e72e8cb10c55a7520bc438314f596c84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\percent-27.1.1.aar\e72e8cb10c55a7520bc438314f596c84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.0.0.aar\140713760653801c01a190bbd2d719f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.0.0.aar\140713760653801c01a190bbd2d719f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b3a671d780876eb85cbd984606135d92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b3a671d780876eb85cbd984606135d92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3d488f2467d875e6437cecded4377959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3d488f2467d875e6437cecded4377959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b4aecda62746a4b6de7bb50dcdb724b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b4aecda62746a4b6de7bb50dcdb724b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0b4e5cb86d3a06ae9f97b193c60511eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\0b4e5cb86d3a06ae9f97b193c60511eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\654e57fc16298598536132fd273f9bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.1.aar\654e57fc16298598536132fd273f9bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\56d18a5c1170777b6879215cf72da3be\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\56d18a5c1170777b6879215cf72da3be\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\ed415c9506f720ec3a8f8d5d78d57e57\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\ed415c9506f720ec3a8f8d5d78d57e57\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\d28556ab7f4fb65a297ebfd59523d9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\d28556ab7f4fb65a297ebfd59523d9cd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\b52ff9c079ad39120b8ac573e469efb7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\b52ff9c079ad39120b8ac573e469efb7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\71147d631c74b1475ca5b80c30863407\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\71147d631c74b1475ca5b80c30863407\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\40bdaa1c66f545f75a3a0db164a6ccf0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\40bdaa1c66f545f75a3a0db164a6ccf0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9adc2c02295a6a3469c1e52974f758db\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\9adc2c02295a6a3469c1e52974f758db\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\7db9ca726dd7a3484989febcd61db6ff\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\7db9ca726dd7a3484989febcd61db6ff\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\16dd1419d4e1447c5ff6d89a669e5b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\16dd1419d4e1447c5ff6d89a669e5b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fffb6ee3ab21b5776db4f3e13b17baac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fffb6ee3ab21b5776db4f3e13b17baac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\34abbe3afc77c104a4fbb97e48055b3e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\34abbe3afc77c104a4fbb97e48055b3e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\019d680382c44e4fe4718f2c1de29da4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\019d680382c44e4fe4718f2c1de29da4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f4c76832f76bf0df0046f8d38967540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2f4c76832f76bf0df0046f8d38967540\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9cddb1a3a882953129341651e74d6063\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9cddb1a3a882953129341651e74d6063\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7df1ed323c46d82a41b351f8821b41af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7df1ed323c46d82a41b351f8821b41af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7cf78c5b8d337aab6236bcf4c6d2497a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7cf78c5b8d337aab6236bcf4c6d2497a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\21966fd8149af29dcee50dc1d0ffa17d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\21966fd8149af29dcee50dc1d0ffa17d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f8ead305eb40e0afe8af745d3dfc5e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f8ead305eb40e0afe8af745d3dfc5e4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8441843e064650425b7a9660e8b28e4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8441843e064650425b7a9660e8b28e4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\441f1c4b8239a4992ad473a4392be4bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\441f1c4b8239a4992ad473a4392be4bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a7c13f02e82c2f99bb439ffcb01e754\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0a7c13f02e82c2f99bb439ffcb01e754\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d683ade4501b714d16ae27e6729098e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d683ade4501b714d16ae27e6729098e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6653f19e77c3cec1d27be0e8711acda5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6653f19e77c3cec1d27be0e8711acda5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ef5827e66598198d4104d960100e307f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ef5827e66598198d4104d960100e307f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\0943a60fbede39e6aae261629bfa199b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.4] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-15.0.4.aar\0943a60fbede39e6aae261629bfa199b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Anup Patra\Desktop\HRmanager\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:12:22-76
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:33:9-37:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:36:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:37:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:34:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:38:9-42:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:41:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:39:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:43:9-47:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:46:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:47:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:44:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:48:9-52:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:51:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:52:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:49:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:56:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:54:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:58:9-61:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:61:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:59:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:62:9-66:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:65:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:66:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:64:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:63:13-57
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:67:9-71:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:70:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:69:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:71:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:68:13-86
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:72:9-84:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:74:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:73:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:76:13-83:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:77:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:79:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:80:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:80:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:82:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:82:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:86:9-90:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:88:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:89:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:90:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-4.0.1.aar\961316036690239a00aede5ba3ea5d57\AndroidManifest.xml:87:13-79
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\efd6a01651aa178abfd40e4af89b0a27\AndroidManifest.xml:33:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.0.0.aar\140713760653801c01a190bbd2d719f0\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.0.0.aar\140713760653801c01a190bbd2d719f0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.0.0.aar\140713760653801c01a190bbd2d719f0\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.0.aar\ad3130e8993f55253d2f167fdfb1b423\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.0.0.aar\602b0d037eb0228b2907e65857dc3360\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.0.aar\e5936a20937510fe93987667e88af389\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:29:9-63
+permission#com.hieuapp.HRmanager.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:32:22-76
+uses-permission#com.hieuapp.HRmanager.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.hieuapp.HRmanager
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:48:27-58
+category#com.hieuapp.HRmanager
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\49df86b6ca1c8c0241ba595d3c16bd45\AndroidManifest.xml:57:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\75dd4e6846be468ca041dce428e56b41\AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\3230f8f1e53ed7484ecfb4b5b2ce4136\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\e47f1a55cc94145aec1cf2cf204f96c4\AndroidManifest.xml:24:13-79
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Anup Patra\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\e8e06c7fd2f9e461e7d50151d4c7e78e\AndroidManifest.xml:24:13-83
